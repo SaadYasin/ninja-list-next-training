@@ -1,0 +1,18 @@
+.listTitle {
+  text-align: center;
+}
+
+.single {
+  padding: 2px 16px;
+  background: #ffffff;
+  color: #0d28a3;
+  display: block;
+  text-decoration: none;
+  margin: 20px 10px;
+  border-left: 8px solid #ffffff;
+  cursor: pointer;
+}
+
+.single:hover {
+  border-left: 8px solid #4979ff;
+}

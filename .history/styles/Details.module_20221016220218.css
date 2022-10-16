@@ -1,0 +1,12 @@
+.container {
+  padding: 5px 20px;
+
+}
+
+.name {
+  color: rgb(6, 18, 92);
+}
+
+.container p {
+  margin: 10px 15px;
+}

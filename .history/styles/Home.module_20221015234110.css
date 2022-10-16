@@ -1,0 +1,19 @@
+.heading {
+  text-align: center;
+}
+
+.textBody {
+  text-align: justify;
+  margin: 20px;
+  line-height: 1.5;
+}
+
+.image {
+display: flex;
+justify-content: center;
+}
+
+.btn {
+  width: 120px;
+  height: ;
+}

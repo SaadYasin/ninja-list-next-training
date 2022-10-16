@@ -1,0 +1,22 @@
+.heading {
+  text-align: center;
+}
+
+.textBody {
+  text-align: justify;
+  margin: 20px;
+  line-height: 1.5;
+}
+
+.image {
+display: flex;
+justify-content: center;
+}
+
+.btn {
+  background: darksalmon;
+  color: aliceblue;
+  padding: 10px 15px;
+  text-decoration: none;
+  border-radius: ;
+}
